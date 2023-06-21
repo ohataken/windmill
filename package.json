@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ohataken/windmill/issues"
   },
-  "homepage": "https://github.com/ohataken/windmill#readme"
+  "homepage": "https://github.com/ohataken/windmill#readme",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
 }
